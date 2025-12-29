@@ -114,6 +114,7 @@ th {
     color: #eee;
     padding: 1rem 0;
     margin-top: 2rem;
+    border: 2px solid #222;
 }
 .site-footer .footer-inner {
     max-width: 1000px;
